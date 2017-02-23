@@ -1,0 +1,25 @@
+C:\_WorkFiles\MyFiles\university\OpenGL_Graph\OpenGL_Graph\bin\Debug\OpenGL_Graph.exe.config
+C:\_WorkFiles\MyFiles\university\OpenGL_Graph\OpenGL_Graph\bin\Debug\OpenGL_Graph.exe
+C:\_WorkFiles\MyFiles\university\OpenGL_Graph\OpenGL_Graph\bin\Debug\OpenGL_Graph.pdb
+C:\_WorkFiles\MyFiles\university\OpenGL_Graph\OpenGL_Graph\bin\Debug\SharpGL.dll
+C:\_WorkFiles\MyFiles\university\OpenGL_Graph\OpenGL_Graph\bin\Debug\SharpGL.SceneGraph.dll
+C:\_WorkFiles\MyFiles\university\OpenGL_Graph\OpenGL_Graph\bin\Debug\SharpGL.WPF.dll
+C:\_WorkFiles\MyFiles\university\OpenGL_Graph\OpenGL_Graph\bin\Debug\SharpGL.pdb
+C:\_WorkFiles\MyFiles\university\OpenGL_Graph\OpenGL_Graph\bin\Debug\SharpGL.xml
+C:\_WorkFiles\MyFiles\university\OpenGL_Graph\OpenGL_Graph\bin\Debug\SharpGL.SceneGraph.pdb
+C:\_WorkFiles\MyFiles\university\OpenGL_Graph\OpenGL_Graph\bin\Debug\SharpGL.SceneGraph.xml
+C:\_WorkFiles\MyFiles\university\OpenGL_Graph\OpenGL_Graph\bin\Debug\SharpGL.WPF.pdb
+C:\_WorkFiles\MyFiles\university\OpenGL_Graph\OpenGL_Graph\bin\Debug\SharpGL.WPF.xml
+C:\_WorkFiles\MyFiles\university\OpenGL_Graph\OpenGL_Graph\obj\Debug\OpenGL_Graph.csprojResolveAssemblyReference.cache
+C:\_WorkFiles\MyFiles\university\OpenGL_Graph\OpenGL_Graph\obj\Debug\MainWindow.baml
+C:\_WorkFiles\MyFiles\university\OpenGL_Graph\OpenGL_Graph\obj\Debug\MainWindow.g.cs
+C:\_WorkFiles\MyFiles\university\OpenGL_Graph\OpenGL_Graph\obj\Debug\App.g.cs
+C:\_WorkFiles\MyFiles\university\OpenGL_Graph\OpenGL_Graph\obj\Debug\OpenGL_Graph_MarkupCompile.cache
+C:\_WorkFiles\MyFiles\university\OpenGL_Graph\OpenGL_Graph\obj\Debug\OpenGL_Graph.g.resources
+C:\_WorkFiles\MyFiles\university\OpenGL_Graph\OpenGL_Graph\obj\Debug\OpenGL_Graph.Properties.Resources.resources
+C:\_WorkFiles\MyFiles\university\OpenGL_Graph\OpenGL_Graph\obj\Debug\OpenGL_Graph.csproj.GenerateResource.Cache
+C:\_WorkFiles\MyFiles\university\OpenGL_Graph\OpenGL_Graph\obj\Debug\OpenGL_Graph.exe
+C:\_WorkFiles\MyFiles\university\OpenGL_Graph\OpenGL_Graph\obj\Debug\OpenGL_Graph.pdb
+D:\3 kurs\2\PMS\Lab1\OpenGL_Graph\OpenGL_Graph\bin\Debug\OpenGL_Graph.exe.config
+D:\3 kurs\2\PMS\Lab1\OpenGL_Graph\OpenGL_Graph\obj\Debug\OpenGL_Graph.exe
+D:\3 kurs\2\PMS\Lab1\OpenGL_Graph\OpenGL_Graph\obj\Debug\OpenGL_Graph.pdb
