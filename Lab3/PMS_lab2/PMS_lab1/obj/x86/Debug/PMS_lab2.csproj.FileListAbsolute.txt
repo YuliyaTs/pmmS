@@ -21,3 +21,26 @@ D:\Projects\PMS_lab2\PMS_lab1\obj\x86\Debug\PMS_lab2.csproj.GenerateResource.Cac
 D:\Projects\PMS_lab2\PMS_lab1\obj\x86\Debug\PMS_lab1.exe
 D:\Projects\PMS_lab2\PMS_lab1\obj\x86\Debug\PMS_lab1.pdb
 D:\Projects\PMS_lab2\PMS_lab1\bin\Debug\music.wav
+D:\3 kurs\2\PMS\PmmS_Labs\pmmS\Lab3\PMS_lab2\PMS_lab1\bin\Debug\PMS_lab1.exe.config
+D:\3 kurs\2\PMS\PmmS_Labs\pmmS\Lab3\PMS_lab2\PMS_lab1\obj\x86\Debug\PMS_lab1.exe
+D:\3 kurs\2\PMS\PmmS_Labs\pmmS\Lab3\PMS_lab2\PMS_lab1\obj\x86\Debug\PMS_lab1.pdb
+D:\3 kurs\2\PMS\PmmS_Labs\pmmS\Lab3\PMS_lab2\PMS_lab1\bin\Debug\music.wav
+D:\3 kurs\2\PMS\PmmS_Labs\pmmS\Lab3\PMS_lab2\PMS_lab1\bin\Debug\PMS_lab1.exe
+D:\3 kurs\2\PMS\PmmS_Labs\pmmS\Lab3\PMS_lab2\PMS_lab1\bin\Debug\PMS_lab1.pdb
+D:\3 kurs\2\PMS\PmmS_Labs\pmmS\Lab3\PMS_lab2\PMS_lab1\bin\Debug\SharpGL.dll
+D:\3 kurs\2\PMS\PmmS_Labs\pmmS\Lab3\PMS_lab2\PMS_lab1\bin\Debug\SharpGL.SceneGraph.dll
+D:\3 kurs\2\PMS\PmmS_Labs\pmmS\Lab3\PMS_lab2\PMS_lab1\bin\Debug\SharpGL.WPF.dll
+D:\3 kurs\2\PMS\PmmS_Labs\pmmS\Lab3\PMS_lab2\PMS_lab1\bin\Debug\SharpGL.pdb
+D:\3 kurs\2\PMS\PmmS_Labs\pmmS\Lab3\PMS_lab2\PMS_lab1\bin\Debug\SharpGL.xml
+D:\3 kurs\2\PMS\PmmS_Labs\pmmS\Lab3\PMS_lab2\PMS_lab1\bin\Debug\SharpGL.SceneGraph.pdb
+D:\3 kurs\2\PMS\PmmS_Labs\pmmS\Lab3\PMS_lab2\PMS_lab1\bin\Debug\SharpGL.SceneGraph.xml
+D:\3 kurs\2\PMS\PmmS_Labs\pmmS\Lab3\PMS_lab2\PMS_lab1\bin\Debug\SharpGL.WPF.pdb
+D:\3 kurs\2\PMS\PmmS_Labs\pmmS\Lab3\PMS_lab2\PMS_lab1\bin\Debug\SharpGL.WPF.xml
+D:\3 kurs\2\PMS\PmmS_Labs\pmmS\Lab3\PMS_lab2\PMS_lab1\obj\x86\Debug\PMS_lab2.csprojResolveAssemblyReference.cache
+D:\3 kurs\2\PMS\PmmS_Labs\pmmS\Lab3\PMS_lab2\PMS_lab1\obj\x86\Debug\MainWindow.baml
+D:\3 kurs\2\PMS\PmmS_Labs\pmmS\Lab3\PMS_lab2\PMS_lab1\obj\x86\Debug\MainWindow.g.cs
+D:\3 kurs\2\PMS\PmmS_Labs\pmmS\Lab3\PMS_lab2\PMS_lab1\obj\x86\Debug\App.g.cs
+D:\3 kurs\2\PMS\PmmS_Labs\pmmS\Lab3\PMS_lab2\PMS_lab1\obj\x86\Debug\PMS_lab1_MarkupCompile.cache
+D:\3 kurs\2\PMS\PmmS_Labs\pmmS\Lab3\PMS_lab2\PMS_lab1\obj\x86\Debug\PMS_lab1.g.resources
+D:\3 kurs\2\PMS\PmmS_Labs\pmmS\Lab3\PMS_lab2\PMS_lab1\obj\x86\Debug\PMS_lab1.Properties.Resources.resources
+D:\3 kurs\2\PMS\PmmS_Labs\pmmS\Lab3\PMS_lab2\PMS_lab1\obj\x86\Debug\PMS_lab2.csproj.GenerateResource.Cache

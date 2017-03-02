@@ -1,7 +1,7 @@
 ﻿<Window x:Class="PMS_lab1.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="SharpGL WPF Application" Height="350" Width="535" 
+        Title="" Height="350" Width="535" 
         xmlns:sharpGL="clr-namespace:SharpGL.WPF;assembly=SharpGL.WPF" WindowStartupLocation="CenterScreen" Background="#480548">
     <Grid>
         <Grid>

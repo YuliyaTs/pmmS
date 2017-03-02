@@ -58,7 +58,7 @@ namespace PMS_lab1
             //  Clear the color and depth buffer.
             gl.Clear(OpenGL.GL_COLOR_BUFFER_BIT | OpenGL.GL_DEPTH_BUFFER_BIT);
             
-           // DrawAxis(gl);
+            DrawAxis(gl);
 
             DrawGraphic(gl);
 
